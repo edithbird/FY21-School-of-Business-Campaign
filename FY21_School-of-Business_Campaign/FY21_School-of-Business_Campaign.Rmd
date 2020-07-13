@@ -50,7 +50,7 @@ options(tinytex.verbose = TRUE)
 
 
 `r newthought('Intro text here')` Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here. In general,we are advertising through Programmatic, FB/IG Display and FB/IG and SC video.
-    \href{https://blog.adstage.io/facebook-ads-benchmarks}{{\color{blue}{\underline{FB Newsfeed }}}} CTR overall experienced a 24% drop from July, 2017 - July, 2018.
+    \href{https://docs.google.com/spreadsheets/d/1Nmwj3jWkmdYrEG7Jq1XSKUVlFan9udn8gbOCYIZSKuc/edit#gid=1224998348}{{\color{blue}{\underline{Naming conventions are here.}}}} CTR overall experienced a 24% drop from July, 2017 - July, 2018.
 
 
 
